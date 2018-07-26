@@ -1,0 +1,83 @@
+body{
+	background:#D5D8DF;
+}
+
+.innet{
+	height:710px;
+	display:block;
+	background:url(../images/login/1.jpg) no-repeat;
+
+}
+.innet1{
+	width:380px;
+	height:486px;
+	background: #fff;
+	position:absolute;
+	top:120px;
+	left:810px;
+	text-align:center;
+	
+}
+.innet2{
+	height:45px;
+	width:350px;
+	/*text-align:center;*/
+	line-height:48px;
+	margin-top:10px;
+	padding:0px 10px;
+	font-size:16px;
+}
+
+
+.innet1 div{
+	text-align:left;
+	margin-left:10px;
+	margin-top:20px;
+}
+
+.innet1 a{
+	text-decoration:none;
+	color:#000;
+}
+
+.innet3{
+	background:#2899F7;
+}
+.innet3:hover{
+	background: #40A9FF;
+}
+.innet4:hover{
+	color:#2899F7;
+}
+
+.innet5{
+	width:360px;
+	height:83px;
+}
+.innet5 p{
+	text-align:center;
+}
+.innet5 img{
+	width:26px;
+}
+.innet6 {
+	margin-left:105px;
+}
+/*===============登录页面完成==============*/
+
+.innet7{
+	height: 160px;
+	font-size:12px;
+	padding:40px 0px;
+	text-align:center;
+
+}
+.innet7 a{
+	color:#000;
+	text-decoration:none;
+}
+.innet7 p{
+	display:inline-block;
+	margin-top:10px;
+}
+/*=========尾部结束==========*/
